@@ -1,5 +1,8 @@
 # 立体绘图方块 2 手机移植补丁工具
 
+![游戏画面 / Gameplay screenshot](aaf426ecb6e646faeaab71d7bf2f409d.jpg)
+
+
 [中文](#中文) · [English](#english)
 
 ## 中文
